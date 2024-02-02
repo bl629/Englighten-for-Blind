@@ -1,0 +1,122 @@
+body {
+  font-family: sans-serif;
+  background-color: #e6f7ff;
+  margin: 0px auto 0px auto;
+}
+
+h1, h2, h3 {
+  font-family: impact;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+h1 {
+  font-size: 60px;
+  background-color: #5b92e5;
+  color: white;
+  margin: 0px auto 0px auto;
+  padding: 50px 0px 50px 0px;
+}
+
+h2 {
+  font-size: 44px;
+  color: #5b92e5;
+  padding: 10px 0px 10px 0px;
+  border-bottom: 1px solid #5b92e5;
+}
+
+h3 {
+  font-size: 36px;
+  color: #5b92e5;
+  padding: 10px 0px 10px 0px;
+}
+
+nav {
+  background-color: #91b6ee;
+  margin: 0px auto 0px auto;
+  padding: 5px 0px 5px 0px;
+  font-size: 20px;
+  text-align: center;
+}
+
+nav ul li{
+  display: inline-block;
+  padding: 0px 20px 0px 20px;
+}
+
+nav ul li a{
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+main {
+  margin: 0px auto 0px auto;
+  width: 700px;
+}
+
+figure {
+  text-align: center;
+  padding: 10px 0px 10px 0px;
+}
+
+p {
+  color: #336699;
+  font-size: 18px;
+  line-height: 2em;
+  padding: 10px 0px 10px 0px;
+}
+
+p:first-letter {
+  font-size: 150%;
+}
+
+footer {
+  text-align: center;
+  background-color: #91b6ee;
+  margin: 40px auto 0px auto;
+  padding: 3px 0px 3px 0px;
+}
+
+#process {
+  color: #336699;
+  font-size: 18px;
+  line-height: 2em;
+}
+
+#leaves {
+  border-bottom: 1px solid #336699;
+  padding-bottom: 40px;
+}
+
+.name {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.name:first-letter {
+  font-size: 100%;
+}
+
+.intro:first-letter {
+  font-size: 100%;
+}
+
+#contact_us {
+  color: #336699;
+  font-size: 18px;
+  margin-left: 100px;
+  padding-bottom: 50px;
+}
+
+.contact {
+  padding: 15px 0px 15px 0px;
+}
+
+address p a{
+  text-decoration: none;
+  font-style:normal;
+  color: #336699;
+  padding: 0px 5px 0px 5px;
+}
